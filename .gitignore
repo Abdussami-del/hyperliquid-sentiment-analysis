@@ -8,6 +8,6 @@ env/
 .pytest_cache/
 .coverage
 htmlcov/
-.streamlit/
+.streamlit/*
 !.streamlit/config.toml
 *.log
