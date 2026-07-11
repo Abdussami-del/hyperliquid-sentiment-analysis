@@ -4,6 +4,8 @@
 
 🔴 **Live Interactive Dashboard:** [View on Streamlit Cloud](https://hyperliquid-sentiment-analysis-azrtevmdttezvp4kpcnez3.streamlit.app/)
 
+![Dashboard Preview](assets/dashboard.png)
+
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 
